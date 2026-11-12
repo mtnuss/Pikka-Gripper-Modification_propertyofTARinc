@@ -64,7 +64,7 @@ Pikka-Gripper-Modification_propertyofTARinc/
 ---
 
 ## Solar Connectors
-The solar connectors used in the lab, and ultimately the construction site, is restricted information. General dimensions for a similar connector was provided and a model was made to remotely check expected connector fit and general part dimensioning. Models of the connectors are shown below, taking the shape of general, mass-produced solar panel connectors. 
+The solar connectors used in the lab, and ultimately the construction site, is restricted information. General dimensions for a similar connector were provided and a model was made to remotely check expected connector fit and general part dimensioning. Models of the connectors are shown below, taking the shape of general, mass-produced solar panel connectors. 
 
 ---
 
