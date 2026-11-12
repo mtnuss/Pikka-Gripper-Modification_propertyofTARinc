@@ -29,6 +29,7 @@
 
 ```plaintext
 Pikka-Gripper-Modification_propertyofTARinc/
+├── images/
 ├── design-1/
 │   ├── images/
 │   │   ├── design-1.png
