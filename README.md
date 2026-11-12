@@ -23,6 +23,96 @@ Due to the components being used in active infrastructure, all proprietary engin
 
 ---
 
+```plaintext
+cryogenic-composite-tank-thesis/
+├── optimization-1/
+│   ├── model.hm
+│   ├── run.fem
+│   ├── output.out
+│   ├── images/
+│   │   ├── mesh.png
+│   │   └── stress_plot.png
+│   └── README.md
+├── optimization-2/
+│   ├── model.hm
+│   ├── run.fem
+│   ├── output.out
+│   ├── images/
+│   │   ├── mesh.png
+│   │   └── displacement_plot.png
+│   └── README.md
+├── optimization-3/
+│   ├── design-a/
+│   │   ├── maxstrain/
+│   │   |   ├── model.hm
+│   │   │   ├── run.fem
+│   │   │   ├── output.out
+│   │   │   └── README.md
+│   │   ├── stress/
+│   │   │   ├── model.hm
+│   │   │   ├── run.fem
+│   │   │   ├── output.out
+│   │   │   └── README.md
+│   │   ├── tsaiwu/
+│   │   │   ├── model.hm
+│   │   │   ├── run.fem
+│   │   │   ├── output.out
+│   │   │   └── README.md
+|   |   ├── images
+|   |   |   ├── stresses.png
+│   │   │   └── failureindices.png
+│   |   └── README.md
+│   ├── design-b/
+│   │   ├── maxstrain/
+│   │   |   ├── model.hm
+│   │   │   ├── run.fem
+│   │   │   ├── output.out
+│   │   │   └── README.md
+│   │   ├── stress/
+│   │   │   ├── model.hm
+│   │   │   ├── run.fem
+│   │   │   ├── output.out
+│   │   │   └── README.md
+│   │   ├── tsaiwu/
+│   │   │   ├── model.hm
+│   │   │   ├── run.fem
+│   │   │   ├── output.out
+│   │   │   └── README.md
+|   |   ├── images
+|   |   |   ├── stresses.png
+│   │   │   └── failureindices.png
+│   |   └── README.md
+│   ├── design-c/
+│   │   ├── maxstrain/
+│   │   |   ├── model.hm
+│   │   │   ├── run.fem
+│   │   │   ├── output.out
+│   │   │   └── README.md
+│   │   ├── stress/
+│   │   │   ├── model.hm
+│   │   │   ├── run.fem
+│   │   │   ├── output.out
+│   │   │   └── README.md
+│   │   ├── tsaiwu/
+│   │   │   ├── model.hm
+│   │   │   ├── run.fem
+│   │   │   ├── output.out
+│   │   │   └── README.md
+|   |   ├── images
+|   |   |   ├── stresses.png
+│   │   │   └── failureindices.png
+│   |   └── README.md
+│   └── README.md   # Summary of optimization-3 iteration across all designs and methods
+├── benchmark/
+│   ├── stresses.png
+|   ├── README.md
+├── model/
+│   ├── tank.png
+|   ├── README.md  # Summary of the model and assumptions made
+├── README.md       # Main project overview
+```
+
+
 ## 🚀 The 8-Iteration Engineering Log
 
 The remote nature of this project required a disciplined feedback loop between the CAD environment and the physical testbed. Over 8 iterations, structural geometry was systematically optimized to address real-world physics:
